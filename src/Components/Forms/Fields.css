@@ -1,0 +1,8 @@
+.input-field {
+    display: flex!important;
+    flex-direction: column;
+}
+
+.input-field input {
+    margin-left: 100px;
+}

@@ -1,0 +1,33 @@
+.copyright-container {
+    min-height: 94.5vh;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.license-container {
+    padding-bottom: 16vh;
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0,0.5);
+    margin: 0 10vw;
+}
+
+.and {
+    font-size: 1.75rem;
+}
+
+.license-container h1 {
+    color: white;
+}
+
+.big-bold {
+    font-size: 2.25rem;
+    font-weight: 900;
+}
+
+.logo {
+    padding-top: 1%;
+    font-size: 1.5rem;
+    margin-bottom: 16vh;
+}

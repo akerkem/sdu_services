@@ -1,0 +1,13 @@
+.service-container {
+    margin: 10vh 0;
+}
+
+.label {
+    font-size: 2.25rem;
+    letter-spacing: 1px;
+}
+
+.select-container {
+    padding: 0 10vw;
+    margin: 7.5vh 0;
+}
